@@ -76,19 +76,6 @@ The **Wishlist** feature is powered by React Context and LocalStorage to allow u
 - **Related Products**: Suggests similar items based on the user's browsing history.
 - **Social Media Sharing**: Easy sharing of products on social media platforms.
 
-## **Screenshots**
-
-Here's a sneak peek at some of the key features:
-
-- **Homepage**
-  ![Homepage](![homepage](image.png))
-
-- **Product Detail Page**
-  ![Product Detail](![products](image-1.png))
-
-- **Wishlist Page**
-  ![Wishlist](![wishlist](image-2.png))
-
 ## **Challenges & Solutions**
 
 - **Challenge**: Managing the wishlist and ensuring it persists across sessions.
